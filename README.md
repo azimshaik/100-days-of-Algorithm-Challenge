@@ -1,2 +1,2 @@
 100-days-of-Algorithm-Challenge
--3 Day:Array Reverse
+Day -3: 23-Jan-2016 - Array Reverse
