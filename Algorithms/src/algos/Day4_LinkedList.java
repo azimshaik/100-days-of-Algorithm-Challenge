@@ -29,6 +29,13 @@ public class Day4_LinkedList {
         		head = temp;	
     		}
     }
+    public void addAtTail(int data){
+    	Node temp = head;
+    	while(temp.next!=null){
+    		temp = temp.next;
+    	}
+    	temp.next = new Node(data);
+    }
     public static void show(){
     	Node temp = head;
     while(temp!=null){
@@ -43,6 +50,8 @@ public class Day4_LinkedList {
     	ll.addAtFirst(1278);
     	ll.addAtFirst(4556);
     	ll.addAtFirst(67);
+    	ll.addAtTail(6787);
+    	ll.addAtTail(756);
     	ll.show();
     }
 }
