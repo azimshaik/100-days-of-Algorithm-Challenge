@@ -16,6 +16,6 @@ public class Day5_LexicalOrder {
 			status = "Lexically Equivalent";
 		}
 		System.out.println(status);
-		
+		System.out.println(s1.substring(0, 1).toUpperCase()+s1.substring(1)+" "+s2.substring(0, 1).toUpperCase()+s2.substring(1));
 	}
 }
