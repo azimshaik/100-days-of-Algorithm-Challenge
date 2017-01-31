@@ -9,3 +9,4 @@
 
 [Day 5: 28-Jan- 2016- Lexical Order] (https://github.com/azimshaik/100-days-of-Algorithm-Challenge/blob/master/Algorithms/src/algos/Day5_LexicalOrder.java)
 
+[Day 6: 31-Jan- 2016- NaiveStringMatching] (https://github.com/azimshaik/100-days-of-Algorithm-Challenge/blob/master/Algorithms/src/algos/Day5_LexicalOrder.java) Matches the given patten in the string and returns the position.
