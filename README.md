@@ -7,3 +7,5 @@
 
 [Day 4: 26-Jan-2016 - Sparse Arrays] (https://github.com/azimshaik/100-days-of-Algorithm-Challenge/blob/master/Algorithms/src/algos/Day4_SparseArrays.java)
 
+[Day 5: 28-Jan- 2016- Lexical Order] (https://github.com/azimshaik/100-days-of-Algorithm-Challenge/blob/master/Algorithms/src/algos/Day5_LexicalOrder.java)
+
