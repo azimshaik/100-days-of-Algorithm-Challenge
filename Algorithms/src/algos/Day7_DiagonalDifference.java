@@ -35,7 +35,8 @@ public class Day7_DiagonalDifference {
 				flag++;
 			}
 		}
-		System.out.print(sumD1+" "+sumD2);
+		//System.out.print(sumD1+""+sumD2);
+        System.out.println(sumD2-sumD1);
 		
 	}
 }
